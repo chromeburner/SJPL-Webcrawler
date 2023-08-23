@@ -1,0 +1,162 @@
+
+Event filters
+Show more, opens an overlay
+Filter events. 1 filters active, opens an overlay
+Active Event filters
+Remove To: Aug 31, 2023
+Remove Biblioteca Latinoamericana
+Event items
+10:30 AM to 11:30 AM
+on August 24, 2023
+View all dates for: Asistencia Tecnológica
+Event location: Biblioteca Latinoamericana
+Register for Asistencia Tecnológica on 08-24-2023
+Find more events in: Family Learning Centers
+Find more events in: Computer Help
+Find more events in: Adults, ages 18+
+Find more events in: Seniors, ages 65+
+Find more events in: Spanish
+3:30 PM to 4:00 PM
+on August 24, 2023
+View all dates for: Tiempo de Cuentos / Family Storytime
+Event location: Biblioteca Latinoamericana
+Find more events in: Storytime
+Find more events in: Young Children, ages 0-5
+Find more events in: English
+Find more events in: Spanish
+4:00 PM to 4:45 PM
+on August 24, 2023
+View all dates for: Crafty Kids - Summer Edition / Crafty Kids - Edición de verano
+Event location: Biblioteca Latinoamericana
+Find more events in: Crafts & Hobbies
+Find more events in: Kids, ages 5-10
+Find more events in: Pre-Teens, ages 10-12
+Find more events in: English
+Find more events in: Spanish
+5:30 PM to 6:30 PM
+on August 24, 2023
+View all dates for: Beginning Ukulele Level 1 for Teens and Tweens
+Event location: Biblioteca Latinoamericana
+Register for Beginning Ukulele Level 1 for Teens and Tweens on 08-24-2023
+Find more events in: Music & Dance
+Find more events in: Pre-Teens, ages 10-12
+Find more events in: Teens, ages 12-18
+Find more events in: English
+3:00 PM to 4:30 PM
+on August 25, 2023
+Event location: Biblioteca Latinoamericana
+Find more events in: Games & Family Entertainment
+Find more events in: Teens, ages 12-18
+Find more events in: English
+3:00 PM to 4:30 PM
+on August 26, 2023
+View all dates for: LEGO® Club
+Event location: Biblioteca Latinoamericana
+Find more events in: Crafts & Hobbies
+Find more events in: Kids, ages 5-10
+Find more events in: English
+Find more events in: Spanish
+3:00 PM to 4:30 PM
+on August 26, 2023
+Event location: Biblioteca Latinoamericana
+Find more events in: Crafts & Hobbies
+Find more events in: Kids, ages 5-10
+Find more events in: English
+Find more events in: Spanish
+10:30 AM to 11:30 AM
+on August 29, 2023
+View all dates for: Asistencia Tecnológica
+Event location: Biblioteca Latinoamericana
+Register for Asistencia Tecnológica on 08-29-2023
+Find more events in: Family Learning Centers
+Find more events in: Computer Help
+Find more events in: Adults, ages 18+
+Find more events in: Seniors, ages 65+
+Find more events in: Spanish
+11:30 AM to 12:00 PM
+on August 29, 2023
+View all dates for: Music and Movement in Spanish and English / Música y Movimiento en español e inglés
+Event location: Biblioteca Latinoamericana
+Find more events in: Storytime
+Find more events in: Kids, ages 5-10
+Find more events in: Young Children, ages 0-5
+Find more events in: English
+Find more events in: Spanish
+3:00 PM to 4:00 PM
+on August 29, 2023
+View all dates for: Homework Club at Biblioteca Latinoamericana - Club de tareas en la Biblioteca Latinoamericana
+Event location: Biblioteca Latinoamericana
+Find more events in: Academic Support & Homework Help
+Find more events in: Kids, ages 5-10
+Find more events in: Pre-Teens, ages 10-12
+Find more events in: English
+10:00 AM to 11:00 AM
+on August 30, 2023
+Event location: Biblioteca Latinoamericana
+Find more events in: Parenting & Early Education
+Find more events in: Young Children, ages 0-5
+Find more events in: English
+Find more events in: Spanish
+10:30 AM to 12:30 PM
+on August 30, 2023
+Event location: Biblioteca Latinoamericana
+Find more events in: Summer Learning
+Find more events in: Health & Wellness
+Find more events in: Kids, ages 5-10
+Find more events in: Pre-Teens, ages 10-12
+Find more events in: Teens, ages 12-18
+1 more categories, expands popover
+1:00 PM to 2:00 PM
+on August 30, 2023
+View all dates for: Preparación para examen de ciudadanía
+Event location: Biblioteca Latinoamericana
+Find more events in: Family Learning Centers
+Find more events in: Citizenship & Immigration
+Find more events in: Seniors, ages 65+
+Find more events in: Spanish
+3:00 PM to 4:00 PM
+on August 30, 2023
+View all dates for: Reading Club for Children in Grades 1 - 4
+Event location: Biblioteca Latinoamericana
+Register for Reading Club for Children in Grades 1 - 4 on 08-30-2023
+Find more events in: Books & Authors
+Find more events in: Kids, ages 5-10
+Find more events in: English
+10:30 AM to 11:30 AM
+on August 31, 2023
+View all dates for: Asistencia Tecnológica
+Event location: Biblioteca Latinoamericana
+Register for Asistencia Tecnológica on 08-31-2023
+Find more events in: Family Learning Centers
+Find more events in: Computer Help
+Find more events in: Adults, ages 18+
+Find more events in: Seniors, ages 65+
+Find more events in: Spanish
+3:30 PM to 4:00 PM
+on August 31, 2023
+View all dates for: Tiempo de Cuentos / Family Storytime
+Event location: Biblioteca Latinoamericana
+Find more events in: Storytime
+Find more events in: Young Children, ages 0-5
+Find more events in: English
+Find more events in: Spanish
+4:00 PM to 4:45 PM
+on August 31, 2023
+View all dates for: Crafty Kids - Summer Edition / Crafty Kids - Edición de verano
+Event location: Biblioteca Latinoamericana
+Find more events in: Crafts & Hobbies
+Find more events in: Kids, ages 5-10
+Find more events in: Pre-Teens, ages 10-12
+Find more events in: English
+Find more events in: Spanish
+5:30 PM to 6:30 PM
+on August 31, 2023
+View all dates for: Beginning Ukulele Level 1 for Teens and Tweens
+Event location: Biblioteca Latinoamericana
+Register for Beginning Ukulele Level 1 for Teens and Tweens on 08-31-2023
+Find more events in: Music & Dance
+Find more events in: Pre-Teens, ages 10-12
+Find more events in: Teens, ages 12-18
+Find more events in: English
+Page 1, current page
+Page 1, current page
